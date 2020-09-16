@@ -8,7 +8,6 @@ Tenho 19 anos e sou apaixonado por conhecimento e gosto de desafios. Meu princip
 🚀  Atualmente estou focado em estudar:
 
 - Javascript
-- ReactJS
 - NodeJS
 
 💬 Nos vemos no Linkedin? 
