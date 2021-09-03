@@ -7,10 +7,8 @@ Tenho 20 anos e sou apaixonado por conhecimento, gosto de desafios e criar proje
 
 🚀  Atualmente estou focado em estudar:
 
-- Desenvolvedor Javascript
-- Desenvolvedor NodeJS
-- Desenvolvedor ReactJs
-- Desenvolvedor Typescript
+- Desenvolvedor Python
+- Desenvolvedor Django
 
 💬 Quer conhecer meu Linkedin? 
 
