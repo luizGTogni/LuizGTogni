@@ -1,14 +1,17 @@
 # Luiz Gustavo Togni 
 
 ## Olá pessoal 👋
-Tenho 20 anos e sou apaixonado por conhecimento, gosto de desafios e criar projetos que faça eu evoluir. Meu principal objetivo é constantemente propor-me a evoluir meu lado pessoal e profissional!
+Olá, tenho 20 anos e sou apaixonado em buscar conhecimento, gosto de desafios e de resolver problemas usando a tecnologia para isso. Meu principal objetivo é constantemente  evoluir minhas soft skills e hard skills.
 
 > Sou apaixonado na comunidade tech ❤️
 
 🚀  Atualmente estou focado em estudar:
 
-- Desenvolvedor Python
-- Desenvolvedor Django
+📌  Data Science (Python, Pandas)
+📌  Estatística
+📌  Machine Learning (Sklearn)
+📌  Dados
+📌  Excel e Power BI
 
 💬 Quer conhecer meu Linkedin? 
 
