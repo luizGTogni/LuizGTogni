@@ -8,9 +8,13 @@ Olá, tenho 20 anos e sou apaixonado em buscar conhecimento, gosto de desafios e
 🚀  Atualmente estou focado em estudar:
 
 📌  Data Science (Python, Pandas)
+
 📌  Estatística
+
 📌  Machine Learning (Sklearn)
+
 📌  Dados
+
 📌  Excel e Power BI
 
 💬 Quer conhecer meu Linkedin? 
