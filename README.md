@@ -1,10 +1,12 @@
 # Luiz Gustavo Togni 
 
 ## Olá pessoal 👋
-Olá, sou desenvolvedor Backend e tenho muito interesse em desenvolvimento de software por isso escolhi a área de Backend e engenharia de software para me especializar.
+Sou desenvolvedor Backend e busco melhorar minhas habilidades de resoluções de problemas, pensamento lógico, capacidade de adaptabilidade com diversas linguagens das aplicações e comprometimento com as entregas. Tenho objetivo de longo prazo fazer pós graduação em Engenharia de Software.
 
 No momento estou estudando essas tecnologias:</br>
-📌 Node</br>
+📌 Golang</br>
+📌 Node.JS</br>
+📌 React.js</br>
 📌 JavaScript </br>
 📌 TypeScript</br>
 📌 Computação em Nuvem (AWS)</br>
