@@ -152,25 +152,3 @@ Me chamo Luiz Gustavo, tenho 23 anos. Concluí o ensino médio no IFSP Piracicab
   />
 
 </p>
-
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-
-<div>Se você está procurando um desenvolvedor backend apaixonado, dedicado e com muita vontade de aprender, vamos conversar. Estou ansioso para contribuir e crescer junto com sua equipe. 🤝</div>
-
-<br />
-
-Email: contato.togni@gmail.com
-
-💬 Quer conhecer meu Linkedin? 
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luizgustavotogni)](https://www.linkedin.com/in/luizgustavotogni)
-
