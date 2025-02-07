@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Backend`**
 
-Me chamo Luiz Gustavo, tenho 23 anos. Concluí o ensino médio no IFSP Piracicaba, com o curso técnico em informática. Atualmente, estou graduando em Sistemas de Informação na Anhembi Morumbi. Adoro criar tecnologia e o processo de como as coisas são feitas desde a arquitetura ao desenvolvimento.
+Me chamo Luiz Gustavo, tenho 24 anos. Concluí o ensino médio no IFSP Piracicaba, com o curso técnico em informática. Atualmente, estou graduando em Sistemas de Informação na Anhembi Morumbi. Adoro criar tecnologia e o processo de como as coisas são feitas desde a arquitetura ao desenvolvimento.
 
 <p align="left">
     <a href="https://github.com/luizGTogni?tab=repositories&sort=stargazers">
