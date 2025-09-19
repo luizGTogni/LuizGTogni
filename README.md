@@ -24,14 +24,13 @@ Me chamo Luiz Gustavo, tenho 24 anos. Concluí o ensino médio no IFSP Piracicab
 ---
 
 ### 🤖 Linguagens e Tecnologias
-
 <img 
     align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
+    alt="Node"
+    title="Node" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
 />
 <img 
     align="left" 
@@ -40,6 +39,14 @@ Me chamo Luiz Gustavo, tenho 24 anos. Concluí o ensino médio no IFSP Piracicab
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python"
+    title="Python" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 <img 
     align="left" 
